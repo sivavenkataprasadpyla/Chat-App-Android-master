@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746964164107",
+    "firebase_url": "https://fbchatapp-5c366-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fbchatapp-5c366",
+    "storage_bucket": "fbchatapp-5c366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746964164107:android:3f8101b1ff8a1a9099310e",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746964164107-r3i3pe69u3h673cq9dvu7j94h2a7uf43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWi9kIpxebl-hW-tyl8WvwthbT__OyeBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746964164107-r3i3pe69u3h673cq9dvu7j94h2a7uf43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
